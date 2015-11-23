@@ -1,0 +1,34 @@
+body {
+  background-color: #ECECEA;
+  color: #74AFAD;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+h3 {
+  color: #D9853B;
+  text-align: center;
+}
+
+input[type=text]
+{
+  color: #D9853B;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 20px;
+  padding: 4px 7px;
+  width: 50%;
+  display: block;
+  margin : 0 auto;
+}
+
+.CinemaStoreHeader {
+  background-color: #558C89;
+  color: white;
+  text-align: center;
+  padding: 1px;
+}
+
+.CinemaStoreSearch {
+  margin: 60px;
+}
