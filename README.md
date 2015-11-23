@@ -14,7 +14,7 @@ CinemaStore is a simple UI built using [React](https://facebook.github.io/react/
 
 ###### Usage
 
-To run the application do: `$python -m SimpleHTTPServer` within the project directory.
+To run the application do: `$ python -m SimpleHTTPServer` within the project directory.
 
 Visit http://127.0.0.1:8000/index.html to access the application.
 
